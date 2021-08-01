@@ -1,0 +1,16 @@
+setenv PATH /home/nicoley/rc:{$PATH}
+setenv GIT_CAD_REPO git@github.com:ruby-cherry/cad.git
+setenv PROJECTS_DIR /home/nicoley/rc
+setenv PROJECT_REV rev_a
+setenv PROJECT_NAME rc_project
+setenv PROJECT_HOME /home/nicoley/rc/rev_a
+setenv GIT_OT_PROJECT_ROOT git@github.com:ruby-cherry/rc_project.git
+setenv GIT_FOUNDRY_PROJECT_ROOT git@github.com:ruby-cherry/foundry/.git
+setenv GITLAB_OT_PROJECT_ROOT git@github.com:ruby-cherry/rc_project_2.git
+setenv GITLAB_FOUNDRY_PROJECT_ROOT git@github.com:ruby-cherry/foundry_2.git
+setenv GIT_TOP_PROJECT_ROOT git@github.com:ruby-cherry/top.git
+setenv GIT_WA_SHAS_PROJECT_ROOT git@github.com:ruby-cherry/wa_sha.git
+setenv GIT_DESIGN_PROJECT_ROOT git@github.com:ruby-cherry/design.git
+setenv GIT_VERIFICATION_PROJECT_ROOT git@github.com:ruby-cherry/verification.git
+setenv UWA_PROJECT_ROOT /home/nicoley/rc/workarea
+#GIT_NTILOT_PROJECT_ROOT git@gitlab.rc.co.il:rc_project/ntil_ot.git
